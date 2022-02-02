@@ -1,0 +1,18 @@
+.txt{
+    text-align: center;
+    text-decoration-style: solid;
+    font-weight: 500;
+    color:rgb(10, 112, 7);
+    display: flex;
+    justify-content:space-evenly;
+}
+.sidebyside{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+*{
+    background:rgb(141, 177, 212);
+    /* background-image: linear-gradient(green,yellow);
+    background-repeat:none; */
+}

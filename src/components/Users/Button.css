@@ -1,0 +1,9 @@
+.Buttonst{
+    background-color: #4CAF50; /* Green */
+  border:rgb(231, 228, 21);
+  color: white;
+  padding: 2px 2px;
+  text-align: center;
+  font-size: 10px;
+  border-radius: 10px;
+}
